@@ -85,8 +85,6 @@ public class Main {
             number1 = romanToNumber(stable00);
             number2 = romanToNumber(string03);
 
-            System.out.println(number1+"    " + number2);
-
             validateArabicNumbers(number1,number2);
 
             System.out.println("Результат для римских цифр");
